@@ -1,4 +1,4 @@
-import {ACTION_NAME} from './action-types'
+import {ACTION_NAME} from './actionTypes'
 
 export const action = (newProperty) => {
   return{
